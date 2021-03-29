@@ -13,7 +13,7 @@ pickleshare==0.7.4
 pip==10.0.1   
 prompt-toolkit==1.0.15   
 ptyprocess==0.5.2
-Pygments==2.2.0
+Pygments==2.7.4
 requests==2.19.1
 setuptools==39.2.0
 simplegeneric==0.8.1
